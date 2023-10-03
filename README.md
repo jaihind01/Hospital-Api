@@ -9,7 +9,7 @@ Clone this repository using the following command: https://github.com/jaihind01/
 
 Install the required dependencies using the following command: $ npm install
 
-Start the application using the following command: $ npm run start
+Start the application using the following command: $ node index.js
 
 Open the application in your postman app by visiting the following URL: http://localhost:8000
 
